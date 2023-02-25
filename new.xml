@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Information about myself>
+      <full_name>Kalinin_Vitalii</full_name>
+      <age>27</age>
+      <my_pets>
+          <cat>Bonnie</cat>
+          <hamster_1>Jessie</hamster_1>
+           <hamster_2>Tommie</hamster_2>
+      </my_pets>
+      <potential_salary>2500$</potential_salary>
+ </Information about myself>

@@ -3,7 +3,7 @@
      <bug_id>1</bug_id>
      <title>The currency GBP/JPY handeln is displayed in the header of the top banner instead of GBP/USD handeln</title>
      <steps>
-              <step_1>Navigate_to_capital.com<step_1>
+              <step_1>Navigate to capital.com<step_1>
               <step_2>Choose German language</step_2>
               <step_3>Click button [Burger Menu]</step_3>
               <step_4>Click menu section [Traden lernen] (Learn to Trade)</step_4>

@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+  <br>
+     <bug_id>1</bug_id>
+     <title>The currency GBP/JPY handeln is displayed in the header of the top banner instead of GBP/USD handeln</title>
+     <steps>
+              <step_1>Navigate_to_capital.com<step_1>
+              <step_2>Choose German language</step_2>
+              <step_3>Click button [Burger Menu]</step_3>
+              <step_4>Click menu section [Traden lernen] (Learn to Trade)</step_4>
+              <step_5>Click menu item [Forex - Handel] (Forex trading guide)</step_5>
+              <step_6>Choose currency GBP/USD in sidebar item</step_6>
+     </steps>
+     <expected_result>The currency GBP/USD handeln is displayed in the header of the top banner</expected_result>
+     <actual_result>The currency GBP/JPY handeln is displayed in the header of the top banner</actual_result>
+     <severity>Minor</severity>
+     <attachment>Link</attachment>
+     <environment>macOS Big Sur 11.7.2, Safari 16.2</environment>
+  </br>             
